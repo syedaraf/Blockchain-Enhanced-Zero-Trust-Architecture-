@@ -1,0 +1,2 @@
+cryptography>=42.0   # ECDSA signing (tested with 46.0.6)
+notebook>=7.0        # to open B-ZTA.ipynb locally; not needed in Google Colab
